@@ -262,3 +262,30 @@ grid-area: cards;
     line-height: 10px;
     padding: 15px;
 }
+
+
+
+.section3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* gap: rem; */
+    /* margin-top: 300px; */
+}
+
+.sec3_img img{
+width: 70%;
+height: 70%;
+margin-left: 150px;
+}
+.sec3_img{
+    background-color: #f9faff;
+    /* background-color: #f9faff; */
+    border-radius: 50% 50% 58% 42% / 50% 30% 70% 50%  ;
+}
+
+.sec3_content{
+    height: 90vh;
+    background-color: #f9faff;
+    border-radius: 50% 50% 58% 42% / 50% 30% 70% 50%  ;
+}
